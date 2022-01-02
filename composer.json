@@ -1,0 +1,17 @@
+{
+    "name": "cwl1/predis",
+    "autoload": {
+        "psr-4": {
+            "Cwl1\\Predis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Faruq Hossen",
+            "email": "faruqhossen30@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
